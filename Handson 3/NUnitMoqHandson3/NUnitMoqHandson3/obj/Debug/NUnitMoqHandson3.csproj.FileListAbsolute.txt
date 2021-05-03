@@ -1,0 +1,7 @@
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\bin\Debug\NUnitMoqHandson3.exe.config
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\bin\Debug\NUnitMoqHandson3.exe
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\bin\Debug\NUnitMoqHandson3.pdb
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\obj\Debug\NUnitMoqHandson3.csprojAssemblyReference.cache
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\obj\Debug\NUnitMoqHandson3.csproj.CoreCompileInputs.cache
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\obj\Debug\NUnitMoqHandson3.exe
+C:\892557\NUnit & MOQ\Handson 3\NUnitMoqHandson3\NUnitMoqHandson3\obj\Debug\NUnitMoqHandson3.pdb
